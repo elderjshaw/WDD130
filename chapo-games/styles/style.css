@@ -60,6 +60,7 @@ body {
 
 h3 {
     margin: 0;
+    font-family: PT Serif;
 }
 header {
     display: grid;
@@ -79,13 +80,14 @@ footer {
     align-items: center;
 }
 .home-title {
-    color: white;
-    font-family: Arial, sans-serif;
+    color: #610345;
+    font-family: Mochiy Pop P One;
     font-size: 2em;
     margin-top: 10px;
 }
 h4 {
-    color: white;
+    color: #610345;
+    font-family: PT Serif;
 }
 
 .card-img {
@@ -136,9 +138,7 @@ main section img {
     max-width: 1600px;
     margin: 0 auto;
 }
-reviews {
-  text-align: center;
-}
+
 
 
 @media screen and (max-width: 900px) {
